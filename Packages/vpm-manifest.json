@@ -1,43 +1,43 @@
 {
   "dependencies": {
     "com.gator-dragon-games.jigglephysics": {
-      "version": "*"
+      "version": "^16.0.0"
     },
     "com.basis.sdk": {
-      "version": "*"
+      "version": "^0.0.1"
     },
     "com.basis.framework": {
-      "version": "*"
+      "version": "^0.0.1"
     },
     "com.basis.textmeshpro": {
-      "version": "*"
+      "version": "^0.0.1"
     },
     "com.basis.framework.editor": {
-      "version": "*"
+      "version": "^0.0.1"
     },
     "com.cnlohr.cilbox": {
-      "version": "*"
+      "version": "^0.1.0"
     },
     "com.steam.steamvr": {
-      "version": "*"
+      "version": "^0.0.2"
     },
     "org.basisvr.bouncycastle": {
-      "version": "*"
+      "version": "^2.5.0"
     },
     "com.basis.shim": {
-      "version": "*"
+      "version": "^0.0.1"
     },
     "org.basisvr.newtonsoft.json": {
-      "version": "*"
+      "version": "^13.0.3"
     },
     "com.llealloo.audiolink": {
-      "version": "*"
+      "version": "^3.1.2"
     },
     "com.valvesoftware.unity.openvr": {
-      "version": "*"
+      "version": "^1.2.4"
     },
     "com.basis.visualtrackers": {
-      "version": "*"
+      "version": "^0.0.1"
     }
   }
 }
