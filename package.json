@@ -1,0 +1,13 @@
+{
+  "name": "com.basis.template.avatar",
+  "displayName": "Basis Avatar Template",
+  "description": "Starter project for building avatars with the Basis SDK.",
+  "version": "0.1.0",
+  "category": "ProjectTemplate",
+  "author": {
+    "name": "BasisVR",
+    "url": "https://github.com/BasisVR"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
